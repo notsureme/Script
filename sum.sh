@@ -8,7 +8,7 @@ sum(){
 
 echo "Enter Num1: "
 read number1
-echo "Enter Num2: "
+echo "Enter Num23: "
 read number2
 sum
 echo $?
