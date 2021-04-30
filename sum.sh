@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# this is a comment
 sum(){
 	((result = $number1+$number2))
 	echo "Result: "
